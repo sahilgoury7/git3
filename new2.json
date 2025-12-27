@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "Noor",
+    "location": "Raipur, India",
+    "role": "Learner & Educator"
+  },
+  "personality": {
+    "traits": ["empathetic", "curious", "structured", "creative"],
+    "interests": ["AI", "Python", "English fluency", "digital content"]
+  },
+  "goals": {
+    "short_term": "Master basics of AI, LLMs, and Python",
+    "long_term": "Build career in education + tech entrepreneurship"
+  },
+  "status": {
+    "energy": "motivated",
+    "challenge": "balancing learning with content creation"
