@@ -1,0 +1,24 @@
+{
+  "name": "Noor",
+  "character": {
+    "traits": ["empathetic", "curious", "collaborative", "audience-focused"],
+    "style": "structured, creative, practical"
+  },
+  "skills": [
+    "breaking down complex topics simply",
+    "creating educational content for Hindi-speaking learners",
+    "translating/adapting material for accessibility",
+    "experimenting with Python, Git, JSON"
+  ],
+  "interests": [
+    "English fluency and grammar",
+    "LLMs and AI automation",
+    "social media teaching formats",
+    "digital entrepreneurship"
+  ],
+  "goals": {
+    "short_term": "Master AI, LLMs, and Python basics in simple, beginner-friendly language",
+    "long_term": "Leverage tech skills for career growth in education or digital content creation"
+  },
+  "emotional_state": "energized and motivated, sometimes overwhelmed but prefers clear, actionable guidance"
+}

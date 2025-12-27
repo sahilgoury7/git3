@@ -1,0 +1,17 @@
+# Define Noor's personality
+noor_personality = {
+    "name": "Noor",
+    "traits": ["empathetic", "curious", "collaborative", "audience-focused"],
+    "style": "structured, creative, practical"
+}
+
+# Define opposite personality
+opposite_personality = {
+    "name": "Opposite",
+    "traits": ["detached", "rigid", "individualistic", "self-focused"],
+    "style": "chaotic, repetitive, impractical"
+}
+
+# Print both for comparison
+print("Noor's Personality:", noor_personality)
+print("Opposite Personality:", opposite_personality)
